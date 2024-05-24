@@ -1,9 +1,9 @@
 # Remote Administration Tool (RAT) using Discord Bot
 
-This Discord bot provides various commands for remote administration of a Windows PC. It can perform tasks like screen recording, taking screenshots, executing system commands, and more. Please note that this code is provided for educational purposes and should not be used for malicious intent.
+This Discord bot provides various commands for remote administration of a Windows PC. It can perform tasks like screen recording, taking screenshots, executing system commands, and more. **Please note that this code is provided for educational purposes and should not be used for malicious intent.**
 
 # Testing
-This codes was tested at most but some commands may not work as intended, like the commands to disable the antivirus or fireall
+This codes was tested at most but some commands may not work as intended, like the commands to disable the antivirus or firewall, or general running.
 
 
 ## Installation
